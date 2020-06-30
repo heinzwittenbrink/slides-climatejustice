@@ -68,6 +68,9 @@ Sobald die Begrenztheit der globalen Ressourcen Folgen für die Menschen auf dem
 
 # Klima-Ungerechtigkeit und Kolonialgeschichte
 
+![](https://upload.wikimedia.org/wikipedia/commons/2/2c/The_Brandt_Line.png)
+
+<p class="rights">[North–South divide - Wikipedia](https://en.wikipedia.org/wiki/North%E2%80%93South_divide "North–South divide - Wikipedia")</p>
 
 ::: notes
 
@@ -78,6 +81,10 @@ Bisher bin ich nur auf ungerechte Verteilung, strukturelle Ungerechtigkeit und V
 
 # Klima-Ungerechtigkeit und Rassismus
 
+![](https://3z6mv8219w2s2w196j1dkzga-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/climate-justice-alliance-.jpg)
+
+<p class="rights">[Environmental Racism In The US: Insidious, Unchecked & Made Worse By Covid-19](https://www.greenqueen.com.hk/environmental-racism-in-the-us-insidious-unchecked-made-worse-by-covid-19/ "Environmental Racism In The US: Insidious, Unchecked & Made Worse By Covid-19")</p>
+
 
 ::: notes
 
@@ -87,6 +94,10 @@ Rassismus ist eine Festschreibung der Ungleichheit zwischen Gruppen von Menschen
 
 # Klima-Ungerechtigkeit, Bevölkerungswachstum und Ökofaschismus
 
+
+![](https://undisciplinedenvironments.org/wp-content/uploads/2020/01/publishwall_1494354754_7834217-768x559.jpg)
+
+<p class="rights">[Far Right Ecologism and the Conceptual Deficiencies of Ecofascism – Undisciplined Environments](https://undisciplinedenvironments.org/2020/05/13/far-right-ecologism-and-the-conceptual-deficiencies-of-ecofascism/ "Far Right Ecologism and the Conceptual Deficiencies of Ecofascism – Undisciplined Environments")</p>
 
 ::: notes
 
