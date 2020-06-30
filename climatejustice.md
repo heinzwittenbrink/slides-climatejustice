@@ -55,6 +55,10 @@ Ein besonderer Fall der strukturellen Klima-Ungerechtigkeit ist das Outsourcing 
 # Klima-Ungerechtigkeit und planetare Grenzen
 
 
+![](https://www.dw.com/image/48989892_7.png)
+
+<p class="rights">[Net-zero by 2050: What does it mean? | Environment| All topics from climate change to conservation | DW | 31.05.2019](https://www.dw.com/en/net-zero-by-2050-what-does-it-mean/a-48958487 "Net-zero by 2050: What does it mean? | Environment| All topics from climate change to conservation | DW | 31.05.2019")</p>
+
 ::: notes
 
 Sobald die Begrenztheit der globalen Ressourcen Folgen für die Menschen auf dem Planeten hat, wirken Verteilungs-Ungerechtigkeit und strukturelle Ungerechtigkeit zusammen. Das, was die einen mehr verbrauchen als die anderen, nehmen sie den anderen Weg. Jede Tonne CO2, die in einem reichen Land klimaschädlich verbraucht wird, fehlt in einem armen Land. Klima-Ungerechtigkeit verschärft sich damit zu einem globalen Kampf um begrenzte Ressourcen.
