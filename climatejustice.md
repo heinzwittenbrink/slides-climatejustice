@@ -108,6 +108,11 @@ Der Ökofaschismus leugnet die Klima-Ungerechtigkeit nicht, sondern er rechtfert
 # Wachstum als Mittel gegen Klima-Ungerechtigkeit?
 
 
+![](https://images.squarespace-cdn.com/content/v1/59bc0e610abd04bd1e067ccc/1549483796424-RPZJOCWJJ8ST73VPQWLT/ke17ZwdGBToddI8pDm48kAGlwiqHtw8f-4W0QCDlJk57gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmlMqpINHCYwrjchQjceiMlZJ_xvmIFvJA11GgMotE1wCfcjDiTeMSfWw1wcuGkhdQ/Dyq7liGWoAAwwdD.jpg?format=750w)
+
+<p class="rights">[A response to Max Roser: how not to measure global poverty — Jason Hickel](https://www.jasonhickel.org/blog/2019/2/6/response-to-max-roser "A response to Max Roser: how not to measure global poverty — Jason Hickel")</p>
+
+
 ::: notes
 
 Die liberale, *progressive* Lösung für die Probleme der ökologischen Ungerechtigkeit besteht im Wirtschaftswachstum, das letztlich zu einem sozialen Ausgleich, z.B. zum Ende extremer Armut führen soll. Wachstum wird als Lösung eines Gerechtigkeitsproblems verstanden, wobei es unterschiedliche, z.B. keynesianische und neoliberale Konzepte zur Steuerung des Wachstums gibt. In der Wirtschaftswissenschaft gibt es eine intensive Debatte darüber, ob Wachstum tatsächlich zu einer dauerhaften Beseitigung der weltweiten Armut geführt hat bzw. führen kann. Ziemlich sicher kann man sagen, dass das Wirtschaftswachstum der neoliberalen Ära seit etwa 1980 zwar zu einer Steigerung des Brutto-Sozialprodukts auch in den armen Ländern geführt hat, dass aber die globale Ungerechtigkeit dramatisch zugenommen hat und dass die Zahl der absolut Armen nicht kleiner geworden ist.
@@ -117,6 +122,10 @@ Die liberale, *progressive* Lösung für die Probleme der ökologischen Ungerech
 # Klimagerechtigkeit als Alternative zum *Incrementum in Absurdum*
 
 
+[![](https://images.squarespace-cdn.com/content/v1/59bc0e610abd04bd1e067ccc/1551542152196-77LQLYWXCHJHVKJLW8YT/ke17ZwdGBToddI8pDm48kOMeKresNOmNNvg_ZMO5hTRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6meY8wE9G88OmrBWkTm6LWxNvzv3TEUof5Fn2T15_NM/elephant.png?format=750w)](http://www.huzaifazoom.com/hickel/wid/)
+
+<p class="rights">[How bad is global inequality, really? — Jason Hickel](https://www.jasonhickel.org/blog/2019/3/1/global-inequality-from-1980-to-2016 "How bad is global inequality, really? — Jason Hickel")</p>
+
 ::: notes
 
 Unabhängig davon, wie man Wirtschaftswachstum als Strategie zur Bekämpfung von Armut beurteilt, ist Wirtschaftswachstum nicht von einer Steigerung des Ressourcenverbrauchs und damit von einer Zunahme der Klima-Ungerechtigkeit abzukoppeln. Wenn die Armut durch kontinuierliches weiteres Wachstum beseitigt werden soll, dann wäre sie erst verschwunden, wenn in das durchschnittliche Einkommen in den Ländern des globalen Nordens bei über einer Million Dollar im Jahr läge. Das wäre, solange es keinerlei realistisches Konzept für eine Entkoppelung von Wachstum und Ressourcenverbrauch gibt, mit einem globalen ökologischen Kollaps verbunden.
@@ -125,6 +134,11 @@ Unabhängig davon, wie man Wirtschaftswachstum als Strategie zur Bekämpfung von
 
 # Klimagerechtigkeit als 4. Forderung?
 
+**4. JUST TRANSITION**
+
+We demand a just transition that prioritizes the most vulnerable people and establishes indigenous sovereignty; establishes reparations and remediation led by and for Black people, Indigenous people, people of color and poor communities for years of environmental injustice, establishes legal rights for ecosystems to thrive and regenerate in perpetuity, and repairs the effects of ongoing ecocide to prevent extinction of humanity and all species, in order to maintain a livable, just planet for all.
+
+<p class="rights">[Demands & Principles — Extinction Rebellion NYC](https://www.xrebellion.nyc/demands-principles "Demands & Principles — Extinction Rebellion NYC")</p>
 
 ::: notes
 
