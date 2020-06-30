@@ -1,12 +1,18 @@
 ---
 author: Heinz Wittenbrink
 date: 2020-06-30
-title: Klimagerechtigkeit
+title: XR-Lernraum Klima-Gerechtigkeit
 ---
+#
+
+- URL: <https://heinzwittenbrink.github.io/slides-climatejustice>
+
+- Text und Aktualisierungen: <https://github.com/heinzwittenbrink/slides-climatejustice/tree/gh-pages>
+
 
 # "Imperiale Lebensweise"
 
-![](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/12/2/1449046370471/4d8525a5-be37-4d04-a275-ccdbd30c98b7-620x431.jpeg?width=620&quality=45&auto=format&fit=max&dpr=2&s=873971462ef09511ffbd72392247dbde)
+![](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/12/2/1449046370471/4d8525a5-be37-4d04-a275-ccdbd30c98b7-620x431.jpeg?width=620&quality=45&auto=format&fit=max&dpr=2&s=873971462ef09511ffbd72392247dbde){width=50%}
 
 <p class="rights">[World's richest 10% produce half of global carbon emissions, says Oxfam | Environment | The Guardian](https://www.theguardian.com/environment/2015/dec/02/worlds-richest-10-produce-half-of-global-carbon-emissions-says-oxfam "World's richest 10% produce half of global carbon emissions, says Oxfam | Environment | The Guardian")</p>
 
@@ -16,9 +22,9 @@ title: Klimagerechtigkeit
 :::
 
 
-# Klima-Ungerechtigkeit als ungerechte Verteilung
+# Ungerechte Verteilung
 
-[![](https://upload.wikimedia.org/wikipedia/commons/a/a7/CO2_emissions_per_capita%2C_2017_%28Our_World_in_Data%29.svg)](https://ourworldindata.org/grapher/co-emissions-per-capita "CO₂ emissions per capita, 2017")
+[![](https://upload.wikimedia.org/wikipedia/commons/a/a7/CO2_emissions_per_capita%2C_2017_%28Our_World_in_Data%29.svg)](https://ourworldindata.org/grapher/co-emissions-per-capita "CO₂ emissions per capita, 2017"){width=60%}
 
 ::: notes
 
@@ -36,12 +42,11 @@ Es gibt verschiedene Begriffe von Gerechtigkeit und verschiedene Formen von Unge
 
 *Klima-Ungerechtigkeit* bedeutet aber noch mehr als Verteilungsungerechtigkeit. gemeint ist damit auch, dass der unterschiedliche Zugang zu Ressourcen strukturelle Gründe hat, dass also die Lebensbedingungen der Reichen und in den reichen Ländern die Ursache für ökologische Katastrophen bei den Armen oder in den armen Ländern sind.  Die Stücke des Kuchens der globalen Ressourcen sind nict nur unterschiedlich groß, sondern die Reichen backen ihre Stücke mit Zutaten, die sie den Armen wegnehmen. Das ist z.B. dann der Fall, wenn Regenwälder zerstört werden, um billige Agrarprodukte für den globalen Norden oder auch für die Reichen im globalen Süden herzustellen. Das lokale Klima und die Biodiversität werden geschädigt, weil andere als die Betroffenen davon profitieren.
 
-
 :::
 
-# Outsourcing-Effekte
+# CO2-Outsourcing
 
-![](https://www.carbonbrief.org/wp-content/uploads/2017/07/PNAS-2010-Davis-5687-92-2.jpg)
+![](https://www.carbonbrief.org/wp-content/uploads/2017/07/PNAS-2010-Davis-5687-92-2.jpg){width=60%}
 
 <p class="rights">[Mapped: The world’s largest CO2 importers and exporters | Carbon Brief](https://www.carbonbrief.org/mapped-worlds-largest-co2-importers-exporters "Mapped: The world’s largest CO2 importers and exporters | Carbon Brief")</p>
 
@@ -52,10 +57,10 @@ Ein besonderer Fall der strukturellen Klima-Ungerechtigkeit ist das Outsourcing 
 :::
 
 
-# Klima-Ungerechtigkeit und planetare Grenzen
+# Planetare Grenzen
 
 
-![](https://www.dw.com/image/48989892_7.png)
+![](https://www.dw.com/image/48989892_7.png){width=30%}
 
 <p class="rights">[Net-zero by 2050: What does it mean? | Environment| All topics from climate change to conservation | DW | 31.05.2019](https://www.dw.com/en/net-zero-by-2050-what-does-it-mean/a-48958487 "Net-zero by 2050: What does it mean? | Environment| All topics from climate change to conservation | DW | 31.05.2019")</p>
 
@@ -66,7 +71,7 @@ Sobald die Begrenztheit der globalen Ressourcen Folgen für die Menschen auf dem
 :::
 
 
-# Klima-Ungerechtigkeit und Kolonialgeschichte
+# Kolonialismus
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/2c/The_Brandt_Line.png)
 
@@ -79,7 +84,7 @@ Bisher bin ich nur auf ungerechte Verteilung, strukturelle Ungerechtigkeit und V
 
 :::
 
-# Klima-Ungerechtigkeit und Rassismus
+# Rassismus
 
 ![](https://3z6mv8219w2s2w196j1dkzga-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/climate-justice-alliance-.jpg)
 
@@ -92,10 +97,10 @@ Rassismus ist eine Festschreibung der Ungleichheit zwischen Gruppen von Menschen
 
 :::
 
-# Klima-Ungerechtigkeit, Bevölkerungswachstum und Ökofaschismus
+# Ökofaschismus
 
 
-![](https://undisciplinedenvironments.org/wp-content/uploads/2020/01/publishwall_1494354754_7834217-768x559.jpg)
+![](https://undisciplinedenvironments.org/wp-content/uploads/2020/01/publishwall_1494354754_7834217-768x559.jpg){width=50%}
 
 <p class="rights">[Far Right Ecologism and the Conceptual Deficiencies of Ecofascism – Undisciplined Environments](https://undisciplinedenvironments.org/2020/05/13/far-right-ecologism-and-the-conceptual-deficiencies-of-ecofascism/ "Far Right Ecologism and the Conceptual Deficiencies of Ecofascism – Undisciplined Environments")</p>
 
@@ -105,10 +110,10 @@ Der Ökofaschismus leugnet die Klima-Ungerechtigkeit nicht, sondern er rechtfert
 
 :::
 
-# Wachstum als Mittel gegen Klima-Ungerechtigkeit?
+# Wachstum als Mittel?
 
 
-![](https://images.squarespace-cdn.com/content/v1/59bc0e610abd04bd1e067ccc/1549483796424-RPZJOCWJJ8ST73VPQWLT/ke17ZwdGBToddI8pDm48kAGlwiqHtw8f-4W0QCDlJk57gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmlMqpINHCYwrjchQjceiMlZJ_xvmIFvJA11GgMotE1wCfcjDiTeMSfWw1wcuGkhdQ/Dyq7liGWoAAwwdD.jpg?format=750w)
+![](https://images.squarespace-cdn.com/content/v1/59bc0e610abd04bd1e067ccc/1549483796424-RPZJOCWJJ8ST73VPQWLT/ke17ZwdGBToddI8pDm48kAGlwiqHtw8f-4W0QCDlJk57gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmlMqpINHCYwrjchQjceiMlZJ_xvmIFvJA11GgMotE1wCfcjDiTeMSfWw1wcuGkhdQ/Dyq7liGWoAAwwdD.jpg?format=750w){width=50%}
 
 <p class="rights">[A response to Max Roser: how not to measure global poverty — Jason Hickel](https://www.jasonhickel.org/blog/2019/2/6/response-to-max-roser "A response to Max Roser: how not to measure global poverty — Jason Hickel")</p>
 
@@ -119,7 +124,7 @@ Die liberale, *progressive* Lösung für die Probleme der ökologischen Ungerech
 
 :::
 
-# Klimagerechtigkeit als Alternative zum *Incrementum in Absurdum*
+# *Incrementum ad Absurdum*
 
 
 [![](https://images.squarespace-cdn.com/content/v1/59bc0e610abd04bd1e067ccc/1551542152196-77LQLYWXCHJHVKJLW8YT/ke17ZwdGBToddI8pDm48kOMeKresNOmNNvg_ZMO5hTRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6meY8wE9G88OmrBWkTm6LWxNvzv3TEUof5Fn2T15_NM/elephant.png?format=750w)](http://www.huzaifazoom.com/hickel/wid/)
@@ -132,9 +137,7 @@ Unabhängig davon, wie man Wirtschaftswachstum als Strategie zur Bekämpfung von
 
 :::
 
-# Klimagerechtigkeit als 4. Forderung?
-
-**4. JUST TRANSITION**
+# 4. Forderung? JUST TRANSITION
 
 We demand a just transition that prioritizes the most vulnerable people and establishes indigenous sovereignty; establishes reparations and remediation led by and for Black people, Indigenous people, people of color and poor communities for years of environmental injustice, establishes legal rights for ecosystems to thrive and regenerate in perpetuity, and repairs the effects of ongoing ecocide to prevent extinction of humanity and all species, in order to maintain a livable, just planet for all.
 
