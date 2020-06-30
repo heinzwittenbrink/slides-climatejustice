@@ -18,7 +18,7 @@ title: Klimagerechtigkeit
 
 # Klima-Ungerechtigkeit als ungerechte Verteilung
 
-(![](https://upload.wikimedia.org/wikipedia/commons/a/a7/CO2_emissions_per_capita%2C_2017_%28Our_World_in_Data%29.svg))[CO₂ emissions per capita, 2017](https://ourworldindata.org/grapher/co-emissions-per-capita "CO₂ emissions per capita, 2017")
+[![](https://upload.wikimedia.org/wikipedia/commons/a/a7/CO2_emissions_per_capita%2C_2017_%28Our_World_in_Data%29.svg)](https://ourworldindata.org/grapher/co-emissions-per-capita "CO₂ emissions per capita, 2017")
 
 ::: notes
 
