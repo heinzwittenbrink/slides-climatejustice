@@ -1,5 +1,5 @@
 ---
-author: Heinz Wittenbrink
+author: Heinz Wittenbrink - rw2020
 date: 2020-09-28
 title: Klima-Gerechtigkeit
 ---
@@ -12,7 +12,7 @@ title: Klima-Gerechtigkeit
 
 # "Imperiale Lebensweise"
 
-![](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/12/2/1449046370471/4d8525a5-be37-4d04-a275-ccdbd30c98b7-620x431.jpeg?width=620&quality=45&auto=format&fit=max&dpr=2&s=873971462ef09511ffbd72392247dbde){width=50%}
+![](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/12/2/1449046370471/4d8525a5-be37-4d04-a275-ccdbd30c98b7-620x431.jpeg?width=620&quality=45&auto=format&fit=max&dpr=2&s=873971462ef09511ffbd72392247dbde){width=100%}
 
 <p class="rights">[World's richest 10% produce half of global carbon emissions, says Oxfam | Environment | The Guardian](https://www.theguardian.com/environment/2015/dec/02/worlds-richest-10-produce-half-of-global-carbon-emissions-says-oxfam "World's richest 10% produce half of global carbon emissions, says Oxfam | Environment | The Guardian")</p>
 
@@ -24,7 +24,7 @@ title: Klima-Gerechtigkeit
 
 # Ungerechte Verteilung
 
-[![](https://upload.wikimedia.org/wikipedia/commons/a/a7/CO2_emissions_per_capita%2C_2017_%28Our_World_in_Data%29.svg)](https://ourworldindata.org/grapher/co-emissions-per-capita "CO₂ emissions per capita, 2017"){width=60%}
+[![](https://upload.wikimedia.org/wikipedia/commons/a/a7/CO2_emissions_per_capita%2C_2017_%28Our_World_in_Data%29.svg)](https://ourworldindata.org/grapher/co-emissions-per-capita "CO₂ emissions per capita, 2017"){width=100%}
 
 ::: notes
 
@@ -34,7 +34,7 @@ Es gibt verschiedene Begriffe von Gerechtigkeit und verschiedene Formen von Unge
 
 # Aspekte der Klima-Ungerechtigkeit
 
-![](https://www.climatejust.org.uk/sites/default/files/Diagram.JPG)
+![](https://www.climatejust.org.uk/sites/default/files/Diagram.JPG){width=100%}
 
 <p class="rights">[Why does climate justice matter? | Climate Just](https://www.climatejust.org.uk/messages/why-does-climate-justice-matter "Why does climate justice matter? | Climate Just")</p>
 
@@ -46,7 +46,7 @@ Es gibt verschiedene Begriffe von Gerechtigkeit und verschiedene Formen von Unge
 
 # CO2-Outsourcing
 
-![](https://www.carbonbrief.org/wp-content/uploads/2017/07/PNAS-2010-Davis-5687-92-2.jpg){width=60%}
+![](https://www.carbonbrief.org/wp-content/uploads/2017/07/PNAS-2010-Davis-5687-92-2.jpg){width=100%}
 
 <p class="rights">[Mapped: The world’s largest CO2 importers and exporters | Carbon Brief](https://www.carbonbrief.org/mapped-worlds-largest-co2-importers-exporters "Mapped: The world’s largest CO2 importers and exporters | Carbon Brief")</p>
 
@@ -60,7 +60,7 @@ Ein besonderer Fall der strukturellen Klima-Ungerechtigkeit ist das Outsourcing 
 # Planetare Grenzen
 
 
-![](https://www.dw.com/image/48989892_7.png){width=30%}
+![](https://www.dw.com/image/48989892_7.png){width=100%}
 
 <p class="rights">[Net-zero by 2050: What does it mean? | Environment| All topics from climate change to conservation | DW | 31.05.2019](https://www.dw.com/en/net-zero-by-2050-what-does-it-mean/a-48958487 "Net-zero by 2050: What does it mean? | Environment| All topics from climate change to conservation | DW | 31.05.2019")</p>
 
