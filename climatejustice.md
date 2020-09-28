@@ -24,7 +24,7 @@ title: Klima-Gerechtigkeit
 
 # Ungerechte Verteilung
 
-[![](https://upload.wikimedia.org/wikipedia/commons/a/a7/CO2_emissions_per_capita%2C_2017_%28Our_World_in_Data%29.svg)](https://ourworldindata.org/grapher/co-emissions-per-capita "CO₂ emissions per capita, 2017"){width=100%}
+[![](https://upload.wikimedia.org/wikipedia/commons/a/a7/CO2_emissions_per_capita%2C_2017_%28Our_World_in_Data%29.svg)](https://ourworldindata.org/grapher/co-emissions-per-capita "CO₂ emissions per capita, 2017"){width=80%}
 
 ::: notes
 
@@ -34,7 +34,7 @@ Es gibt verschiedene Begriffe von Gerechtigkeit und verschiedene Formen von Unge
 
 # Aspekte der Klima-Ungerechtigkeit
 
-![](https://www.climatejust.org.uk/sites/default/files/Diagram.JPG){width=100%}
+![](https://www.climatejust.org.uk/sites/default/files/Diagram.JPG){width=80%}
 
 <p class="rights">[Why does climate justice matter? | Climate Just](https://www.climatejust.org.uk/messages/why-does-climate-justice-matter "Why does climate justice matter? | Climate Just")</p>
 
@@ -46,7 +46,7 @@ Es gibt verschiedene Begriffe von Gerechtigkeit und verschiedene Formen von Unge
 
 # CO2-Outsourcing
 
-![](https://www.carbonbrief.org/wp-content/uploads/2017/07/PNAS-2010-Davis-5687-92-2.jpg){width=100%}
+![](https://www.carbonbrief.org/wp-content/uploads/2017/07/PNAS-2010-Davis-5687-92-2.jpg){width=80%}
 
 <p class="rights">[Mapped: The world’s largest CO2 importers and exporters | Carbon Brief](https://www.carbonbrief.org/mapped-worlds-largest-co2-importers-exporters "Mapped: The world’s largest CO2 importers and exporters | Carbon Brief")</p>
 
@@ -73,7 +73,7 @@ Sobald die Begrenztheit der globalen Ressourcen Folgen für die Menschen auf dem
 
 # Kolonialismus
 
-![](https://upload.wikimedia.org/wikipedia/commons/2/2c/The_Brandt_Line.png)
+![](https://upload.wikimedia.org/wikipedia/commons/2/2c/The_Brandt_Line.png){width=80%}
 
 <p class="rights">[North–South divide - Wikipedia](https://en.wikipedia.org/wiki/North%E2%80%93South_divide "North–South divide - Wikipedia")</p>
 
@@ -86,7 +86,7 @@ Bisher bin ich nur auf ungerechte Verteilung, strukturelle Ungerechtigkeit und V
 
 # Rassismus
 
-![](https://3z6mv8219w2s2w196j1dkzga-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/climate-justice-alliance-.jpg)
+![](https://3z6mv8219w2s2w196j1dkzga-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/climate-justice-alliance-.jpg){width=80%}
 
 <p class="rights">[Environmental Racism In The US: Insidious, Unchecked & Made Worse By Covid-19](https://www.greenqueen.com.hk/environmental-racism-in-the-us-insidious-unchecked-made-worse-by-covid-19/ "Environmental Racism In The US: Insidious, Unchecked & Made Worse By Covid-19")</p>
 
@@ -100,7 +100,7 @@ Rassismus ist eine Festschreibung der Ungleichheit zwischen Gruppen von Menschen
 # Ökofaschismus
 
 
-![](https://undisciplinedenvironments.org/wp-content/uploads/2020/01/publishwall_1494354754_7834217-768x559.jpg){width=50%}
+![](https://undisciplinedenvironments.org/wp-content/uploads/2020/01/publishwall_1494354754_7834217-768x559.jpg){width=80%}
 
 <p class="rights">[Far Right Ecologism and the Conceptual Deficiencies of Ecofascism – Undisciplined Environments](https://undisciplinedenvironments.org/2020/05/13/far-right-ecologism-and-the-conceptual-deficiencies-of-ecofascism/ "Far Right Ecologism and the Conceptual Deficiencies of Ecofascism – Undisciplined Environments")</p>
 
@@ -113,7 +113,7 @@ Der Ökofaschismus leugnet die Klima-Ungerechtigkeit nicht, sondern er rechtfert
 # Wachstum als Mittel?
 
 
-![](https://images.squarespace-cdn.com/content/v1/59bc0e610abd04bd1e067ccc/1549483796424-RPZJOCWJJ8ST73VPQWLT/ke17ZwdGBToddI8pDm48kAGlwiqHtw8f-4W0QCDlJk57gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmlMqpINHCYwrjchQjceiMlZJ_xvmIFvJA11GgMotE1wCfcjDiTeMSfWw1wcuGkhdQ/Dyq7liGWoAAwwdD.jpg?format=750w){width=50%}
+![](https://images.squarespace-cdn.com/content/v1/59bc0e610abd04bd1e067ccc/1549483796424-RPZJOCWJJ8ST73VPQWLT/ke17ZwdGBToddI8pDm48kAGlwiqHtw8f-4W0QCDlJk57gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmlMqpINHCYwrjchQjceiMlZJ_xvmIFvJA11GgMotE1wCfcjDiTeMSfWw1wcuGkhdQ/Dyq7liGWoAAwwdD.jpg?format=750w){width=80%}
 
 <p class="rights">[A response to Max Roser: how not to measure global poverty — Jason Hickel](https://www.jasonhickel.org/blog/2019/2/6/response-to-max-roser "A response to Max Roser: how not to measure global poverty — Jason Hickel")</p>
 
@@ -127,7 +127,7 @@ Die liberale, *progressive* Lösung für die Probleme der ökologischen Ungerech
 # *Incrementum ad Absurdum*
 
 
-[![](https://images.squarespace-cdn.com/content/v1/59bc0e610abd04bd1e067ccc/1551542152196-77LQLYWXCHJHVKJLW8YT/ke17ZwdGBToddI8pDm48kOMeKresNOmNNvg_ZMO5hTRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6meY8wE9G88OmrBWkTm6LWxNvzv3TEUof5Fn2T15_NM/elephant.png?format=750w)](http://www.huzaifazoom.com/hickel/wid/)
+[![](https://images.squarespace-cdn.com/content/v1/59bc0e610abd04bd1e067ccc/1551542152196-77LQLYWXCHJHVKJLW8YT/ke17ZwdGBToddI8pDm48kOMeKresNOmNNvg_ZMO5hTRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6meY8wE9G88OmrBWkTm6LWxNvzv3TEUof5Fn2T15_NM/elephant.png?format=750w){width=80%}](http://www.huzaifazoom.com/hickel/wid/)
 
 <p class="rights">[How bad is global inequality, really? — Jason Hickel](https://www.jasonhickel.org/blog/2019/3/1/global-inequality-from-1980-to-2016 "How bad is global inequality, really? — Jason Hickel")</p>
 
