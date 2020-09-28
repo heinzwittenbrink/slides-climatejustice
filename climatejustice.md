@@ -1,7 +1,7 @@
 ---
 author: Heinz Wittenbrink
-date: 2020-06-30
-title: XR-Lernraum Klima-Gerechtigkeit
+date: 2020-09-28
+title: Klima-Gerechtigkeit
 ---
 #
 
