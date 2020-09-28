@@ -52,7 +52,7 @@ Es gibt verschiedene Begriffe von Gerechtigkeit und verschiedene Formen von Unge
 
 ::: notes
 
-Ein besonderer Fall der strukturellen Klima-Ungerechtigkeit ist das Outsourcing ökologisch schädlicher Produktionen in ärmere Länder. Dafür ist China, das schon als *Schornstein der Welt* bezeichnet wurde, das sichtbarsze Beispiel. Die CO2-Bilanz der reichen Länder profitiert davon, dass CO2-intensive Produktionen nach China und in den globalen Süden verschoben werden.
+Ein besonderer Fall der strukturellen Klima-Ungerechtigkeit ist das Outsourcing ökologisch schädlicher Produktionen in ärmere Länder. Dafür ist China, das schon als *Schornstein der Welt* bezeichnet wurde, das sichtbarste Beispiel. Die CO2-Bilanz der reichen Länder profitiert davon, dass CO2-intensive Produktionen nach China und in den globalen Süden verschoben werden.
 
 :::
 
