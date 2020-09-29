@@ -147,4 +147,6 @@ Es gibt Gruppen von Extinction Rebellion, die Klimagerechtigkeit als 4. Forderun
 
 - URL: <https://heinzwittenbrink.github.io/slides-climatejustice>
 
+- Text mit Speaker Notes: <https://github.com/heinzwittenbrink/slides-climatejustice/blob/gh-pages/climatejustice.md>
+
 - Text und Aktualisierungen: <https://github.com/heinzwittenbrink/slides-climatejustice/tree/gh-pages>
