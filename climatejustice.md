@@ -79,7 +79,7 @@ Sobald die Begrenztheit der globalen Ressourcen Folgen für die Menschen auf dem
 
 ::: notes
 
-Bisher bin ich nur auf ungerechte Verteilung, strukturelle Ungerechtigkeit und Verteilungskonflikte heute eingegangen. Klima-Ungerechtigkeit und ökologische Ungerechtigkeit in der Gegenwart sind dabei das Ergebnis der Kolonialgeschichte, in der der globale Norden seinen Reichtum auf Kosten des globalen Südens erworben hat. Diese Kolonialgeschichte war immer mit ökologischer Zerstörung, z.B. mit der Zerstörung von Subsistenzwirtschaft oder extraktivistischen Bergbauprojekten verbunden. Im globalen Norden stellen wir uns die Klimakatastrophe meist als zukünftiges apokalyptischen Ereignis vor. Im globalen Süden hat die Apokalypse bereits stattgefunden und findet weiter statt, von der Sklaverei bis zu der Zerstörung der letzten Rückzugsgebiet indigener Bevölkerungen.
+Bisher bin ich nur auf ungerechte Verteilung, strukturelle Ungerechtigkeit und Verteilungskonflikte heute eingegangen. Klima-Ungerechtigkeit und ökologische Ungerechtigkeit in der Gegenwart sind dabei das Ergebnis der Kolonialgeschichte, in der der globale Norden seinen Reichtum auf Kosten des globalen Südens erworben hat. Diese Kolonialgeschichte war immer mit ökologischer Zerstörung, z.B. mit der Zerstörung von Subsistenzwirtschaft oder extraktivistischen Bergbauprojekten verbunden. Im globalen Norden stellen wir uns die Klimakatastrophe meist als zukünftiges apokalyptischen Ereignis vor. Im globalen Süden hat die Apokalypse bereits stattgefunden und findet weiter statt, von der Sklaverei bis zu der Zerstörung der letzten Rückzugsgebiete indigener Bevölkerungen.
 
 
 :::
