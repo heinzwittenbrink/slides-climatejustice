@@ -139,7 +139,7 @@ We demand a just transition that prioritizes the most vulnerable people and esta
 
 ::: notes
 
-Es gibt Gruppen von Extinction Rebellion, die Klimagerechtigkeit als 4. Forderung formulieren. Klar ist, dass sich der Klimanotstant ohne Klimagerechtigkeit nicht beseitigen lässt. Offen ist, wie sinnvoll es ist, sie separat zu fordern. Umgekehrt kann man aber die Beseitigung der Klimaungerechtigkeit als Weg zur Lösung der globalen Klimakrise verstehen.
+Es gibt Gruppen von Extinction Rebellion, die Klimagerechtigkeit als 4. Forderung formulieren. Klar ist, dass sich der Klimanotstand ohne Klimagerechtigkeit nicht beseitigen lässt. Offen ist, wie sinnvoll es ist, sie separat zu fordern. Umgekehrt kann man aber die Beseitigung der Klimaungerechtigkeit als Weg zur Lösung der globalen Klimakrise verstehen.
 
 :::
 
