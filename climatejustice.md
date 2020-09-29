@@ -3,12 +3,6 @@ author: Heinz Wittenbrink - rw2020
 date: 2020-09-28
 title: Klima-Gerechtigkeit
 ---
-#
-
-- URL: <https://heinzwittenbrink.github.io/slides-climatejustice>
-
-- Text und Aktualisierungen: <https://github.com/heinzwittenbrink/slides-climatejustice/tree/gh-pages>
-
 
 # "Imperiale Lebensweise"
 
@@ -148,3 +142,9 @@ We demand a just transition that prioritizes the most vulnerable people and esta
 Es gibt Gruppen von Extinction Rebellion, die Klimagerechtigkeit als 4. Forderung formulieren. Klar ist, dass sich der Klimanotstant ohne Klimagerechtigkeit nicht beseitigen lässt. Offen ist, wie sinnvoll es ist, sie separat zu fordern. Umgekehrt kann man aber die Beseitigung der Klimaungerechtigkeit als Weg zur Lösung der globalen Klimakrise verstehen.
 
 :::
+
+# Text und Aktualisierungen dieser Präsentation
+
+- URL: <https://heinzwittenbrink.github.io/slides-climatejustice>
+
+- Text und Aktualisierungen: <https://github.com/heinzwittenbrink/slides-climatejustice/tree/gh-pages>
